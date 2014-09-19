@@ -1,0 +1,41 @@
+{
+  "name": "Courgette",
+  "designer": "Karolina Lach",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Handwriting",
+  "size": 55174,
+  "fonts": [
+    {
+      "name": "Courgette",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Courgette-Regular-TTF.ttf",
+      "postScriptName": "Courgette-Regular",
+      "fullName": "Courgette Regular",
+      "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\"."
+    },
+    {
+      "name": "Courgette",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Courgette-Regular-OTF.ttf",
+      "postScriptName": "Courgette-Regular",
+      "fullName": "Courgette-Regular",
+      "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\"."
+    },
+    {
+      "name": "Courgette",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Courgette-Regular.ttf",
+      "postScriptName": "Courgette-Regular",
+      "fullName": "Courgette Regular",
+      "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\"."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-07-10"
+}
